@@ -1,0 +1,25 @@
+{
+  "name": "fsd-6th-sem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya-3761/FSD---6th-sem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aditya-3761/FSD---6th-sem/issues"
+  },
+  "homepage": "https://github.com/aditya-3761/FSD---6th-sem#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
